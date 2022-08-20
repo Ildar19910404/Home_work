@@ -21,3 +21,6 @@ ls
 ```sh
 mkdir <new_folder_name>
 ```
+
+### Синтаксис языка Markdown ###
+
